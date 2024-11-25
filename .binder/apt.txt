@@ -1,0 +1,6 @@
+dbus-x11
+xfce4
+xorg
+xubuntu-icon-theme
+tigervnc-standalone-server
+tigervnc-xorg-extension
