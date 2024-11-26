@@ -1,17 +1,12 @@
-# X.Org for headless display
-#xserver-xorg-video-dummy
-#xserver-xorg-input-libinput
-#xorg
-
 # TigerVNC
 tigervnc-standalone-server
-#tigervnc-xorg-extension
 
-# XFCE4 desktop + base utilities
+# XFCE4 base desktop + utilities
 xfce4-session
 xfwm4
 xfdesktop4
 xfce4-panel
+xfce4-terminal
 libxfce4ui-utils
 thunar
 xubuntu-icon-theme
