@@ -2,3 +2,5 @@ channels:
   - conda-forge
 dependencies:
   - websockify
+  - pip:
+    - jupyter-remote-desktop-proxy
