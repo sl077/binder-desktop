@@ -1,6 +1,21 @@
-dbus-x11
-xfce4
+# X.Org for headless display
+xserver-xorg-video-dummy
+xserver-xorg-input-libinput
 xorg
-xubuntu-icon-theme
+
+# TigerVNC
 tigervnc-standalone-server
 tigervnc-xorg-extension
+
+# XFCE4 desktop + base utilities
+xfce4-session
+xfwm4
+xfdesktop4
+xfce4-panel
+libxfce4ui-utils
+thunar
+xubuntu-icon-theme
+dbus-x11
+
+# User software
+# - place your packages here
