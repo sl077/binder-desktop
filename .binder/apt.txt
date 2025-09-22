@@ -14,3 +14,4 @@ dbus-x11
 
 # User software
 # - place your packages here
+mc
